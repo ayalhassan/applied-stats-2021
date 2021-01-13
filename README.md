@@ -1,2 +1,3 @@
-# applied-stats-2021
-Materials for STA2201H, Winter semester 2021
+# STA2201 Methods of Applied Statistics II
+
+Materials for STA2201H, Winter semester 2021. To be updated throughout the semester. 

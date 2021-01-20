@@ -2,4 +2,5 @@
 
 Materials for STA2201H, Winter semester 2021. To be updated throughout the semester. 
 
-Week 1 - Introduction
+- Week 1 - Introduction
+- Week 2 - GLMs and EDA

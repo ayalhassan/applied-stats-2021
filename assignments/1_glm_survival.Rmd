@@ -15,7 +15,7 @@ fontsize: 11pt
 
 # Overdispersion
 
-Suppose that the conditional distribution of outcome $Y$ given an unobserved variable $\theta$ is Poisson, with a mean and variance $\theta$, so 
+Suppose that the conditional distribution of outcome $Y$ given an unobserved variable $\theta$ is Poisson, with a mean and variance $\mu\theta$, so 
 
 $$
 Y|\theta \sim  \text{Poisson}(\mu\theta)

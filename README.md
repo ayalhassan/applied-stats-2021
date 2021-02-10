@@ -5,4 +5,5 @@ Materials for STA2201H, Winter semester 2021. To be updated throughout the semes
 - Week 1 - Introduction
 - Week 2 - GLMs and EDA
 - Week 3 - Survival analysis
-- Week 4 - Introduction to Bayesian Inference
+- Week 4 - Introduction to Bayesian inference
+- Week 5 - MCMC and introduction to Stan
